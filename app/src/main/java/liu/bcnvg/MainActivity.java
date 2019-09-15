@@ -1,39 +1,17 @@
 package liu.bcnvg;
 
-import android.Manifest;
-import android.annotation.TargetApi;
 import android.app.ActionBar;
 import android.app.Activity;
-import android.app.AlertDialog;
 import android.app.Fragment;
 import android.app.FragmentTransaction;
-import android.content.ComponentName;
-import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.pm.PackageManager;
-import android.net.Uri;
-import android.os.Build;
 import android.os.Bundle;
 import android.provider.Settings;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.Button;
-import android.widget.ImageButton;
-import android.widget.Toast;
-
-import com.amap.api.maps.AMap;
-import com.amap.api.maps.MapView;
-import com.amap.api.maps.model.MyLocationStyle;
-
-import java.lang.reflect.Method;
-import java.util.ArrayList;
-import java.util.List;
 
 import liu.bcnvg.CheckPermissions.CheckPermissionsActivity;
 import liu.bcnvg.Map3D.Navi_3D_Map;
-import liu.bcnvg.Navi.Navigation;
-import liu.bcnvg.WIFI.LinkActivity;
 
 public class MainActivity extends CheckPermissionsActivity {
 

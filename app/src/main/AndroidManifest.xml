@@ -21,8 +21,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Navi.Navigation"></activity>
-        <activity android:name=".WIFI.LinkActivity"></activity>
     </application>
     //地图包、搜索包需要的基础权限
     <uses-permission android:name="android.permission.INTERNET" />

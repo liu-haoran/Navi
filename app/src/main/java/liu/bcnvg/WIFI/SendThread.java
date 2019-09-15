@@ -18,7 +18,7 @@ import java.net.Socket;
 import java.net.UnknownHostException;
 import java.util.ArrayList;
 
-class SendThread implements Runnable {
+public class SendThread implements Runnable {
 
     private String ip;
     private int port;
