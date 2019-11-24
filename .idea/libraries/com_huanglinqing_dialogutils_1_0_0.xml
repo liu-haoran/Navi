@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.huanglinqing:dialogutils-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dialogutils-1.0.0.aar/b2a2b0878b6095e32244f8a5e8701e4c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/dialogutils-1.0.0.aar/b2a2b0878b6095e32244f8a5e8701e4c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.huanglinqing/dialogutils/1.0.0/101e7809067008fe1ec4bb2d1006102841dfd58/dialogutils-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:gravity="center"
+
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/person"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_marginTop="25dp"
+            android:src="@drawable/hand"/>
+        <TextView
+            android:shadowRadius="3"
+            android:shadowColor="@color/black_line"
+            android:shadowDy="3"
+            android:shadowDx="3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:layout_marginTop="15dp"
+            android:textColor="#ffffff"
+            android:layout_marginBottom="18dp"
+            android:text="lalallallallalala"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="3.6"
+        android:background="@drawable/gray_border"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <RelativeLayout
+            android:id="@+id/rl1"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:id="@+id/dz"
+                style="@style/text"
+                android:text="地址" />
+
+            <EditText
+                android:id="@+id/dd_dzData"
+                style="@style/edit"
+                android:layout_toRightOf="@+id/dz"
+                android:inputType="number" />
+
+
+            <Button
+                android:layout_width="70dp"
+                android:id="@+id/dd_read"
+                style="@style/edit"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/button"
+                android:text="读取"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+
+            android:id="@+id/rl_2"
+            android:layout_width="match_parent"
+            android:layout_height="180dp">
+
+            <TextView
+                android:id="@+id/ph"
+                style="@style/text"
+                android:text="电导率" />
+
+            <EditText
+                android:id="@+id/dd_data"
+                style="@style/edit"
+                android:layout_alignTop="@+id/ph"
+                android:layout_toRightOf="@+id/ph" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_below="@+id/dd_data"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/temp"
+                    style="@style/text"
+                    android:layout_toLeftOf="@+id/dd_temp_data"
+                    android:text="温度" />
+
+                <EditText
+                    android:id="@+id/dd_temp_data"
+                    style="@style/edit"
+                    android:layout_toLeftOf="@+id/unit" />
+
+                <TextView
+                    android:id="@+id/unit"
+                    android:layout_width="30dp"
+                    android:layout_height="40dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_toLeftOf="@+id/read_dd"
+                    android:gravity="center"
+                    android:text="°C" />
+            </LinearLayout>
+
+            <Button
+                android:layout_width="70dp"
+                android:id="@+id/read_dd"
+                style="@style/edit"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp"
+                android:background="@drawable/button"
+                android:text="读取"
+                android:textColor="@color/white" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

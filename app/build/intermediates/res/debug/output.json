@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"FULL_SPLIT","splits":[{"filterType":"ABI","value":"armeabi"}],"versionCode":1},"path":"resources-armeabiDebug.ap_","properties":{"packageId":"com.amap.navi.demo","split":"","minSdkVersion":"15"}}]

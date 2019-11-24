@@ -1,0 +1,1 @@
+[{"outputType":{"type":"APK"},"apkInfo":{"type":"FULL_SPLIT","splits":[{"filterType":"ABI","value":"armeabi"}],"versionCode":1},"path":"app-armeabi-debug.apk","properties":{"packageId":"com.amap.navi.demo","split":"","minSdkVersion":"15"}}]

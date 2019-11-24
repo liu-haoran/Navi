@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    >
+
+    <ListView
+        android:id="@+id/bule_view"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"></ListView>
+
+    <EditText
+        android:id="@+id/Receive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/bule_view"
+        android:gravity="center"
+        android:padding="60dp"
+        android:hint="数据接收区"/>
+
+    <EditText
+        android:id="@+id/Send"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:layout_below="@id/Receive"
+        android:padding="60dp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="数据发送区"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_below="@id/Send"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/blue"
+        android:textColor="@color/white"
+        android:text="发送" />
+
+
+</RelativeLayout>
+
+

@@ -1,0 +1,664 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:2:1-279:12
+INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:2:1-279:12
+INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:2:1-279:12
+INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:2:1-279:12
+MERGED from [com.huanglinqing:dialogutils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\dialogutils-1.0.0.aar\b2a2b0878b6095e32244f8a5e8701e4c\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\e10c27c1bf6acc96c46a9cf31ed8eae3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\1b677a46822abe4e95276f22d35a6ac6\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c52a4117632771296fc3188655c8bc3b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\12f4dedf101ebf7c9a313742682d7990\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3d84d0e80467ec7d091525a1ec7699c7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\643fce0984542be066175b9eedf1c1eb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a026046f18504697712c77d177717c89\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b0015d14fde35db8359d786c005606b1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\b2aaead63208b656e100f368af7e85ce\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cbdf7e02b57bb5df5961a0f2e2f9ff75\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:2:1-279:12
+INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:2:1-279:12
+INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:2:1-279:12
+	package
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huanglinqing:dialogutils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\dialogutils-1.0.0.aar\b2a2b0878b6095e32244f8a5e8701e4c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huanglinqing:dialogutils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\dialogutils-1.0.0.aar\b2a2b0878b6095e32244f8a5e8701e4c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\e10c27c1bf6acc96c46a9cf31ed8eae3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\e10c27c1bf6acc96c46a9cf31ed8eae3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\1b677a46822abe4e95276f22d35a6ac6\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\1b677a46822abe4e95276f22d35a6ac6\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c52a4117632771296fc3188655c8bc3b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c52a4117632771296fc3188655c8bc3b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\12f4dedf101ebf7c9a313742682d7990\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\12f4dedf101ebf7c9a313742682d7990\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3d84d0e80467ec7d091525a1ec7699c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3d84d0e80467ec7d091525a1ec7699c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\643fce0984542be066175b9eedf1c1eb\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\643fce0984542be066175b9eedf1c1eb\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a026046f18504697712c77d177717c89\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a026046f18504697712c77d177717c89\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b0015d14fde35db8359d786c005606b1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b0015d14fde35db8359d786c005606b1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\b2aaead63208b656e100f368af7e85ce\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\b2aaead63208b656e100f368af7e85ce\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cbdf7e02b57bb5df5961a0f2e2f9ff75\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cbdf7e02b57bb5df5961a0f2e2f9ff75\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\e10c27c1bf6acc96c46a9cf31ed8eae3\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml
+		INJECTED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:12:22-71
+uses-permission#android.permission.INTERNET
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:20:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:21:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:22:22-77
+application
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:24:5-277:19
+MERGED from [com.huanglinqing:dialogutils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\dialogutils-1.0.0.aar\b2a2b0878b6095e32244f8a5e8701e4c\AndroidManifest.xml:11:5-15:19
+MERGED from [com.huanglinqing:dialogutils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\dialogutils-1.0.0.aar\b2a2b0878b6095e32244f8a5e8701e4c\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\e10c27c1bf6acc96c46a9cf31ed8eae3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\e10c27c1bf6acc96c46a9cf31ed8eae3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c52a4117632771296fc3188655c8bc3b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c52a4117632771296fc3188655c8bc3b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\12f4dedf101ebf7c9a313742682d7990\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\12f4dedf101ebf7c9a313742682d7990\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3d84d0e80467ec7d091525a1ec7699c7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3d84d0e80467ec7d091525a1ec7699c7\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\643fce0984542be066175b9eedf1c1eb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\643fce0984542be066175b9eedf1c1eb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a026046f18504697712c77d177717c89\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a026046f18504697712c77d177717c89\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b0015d14fde35db8359d786c005606b1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b0015d14fde35db8359d786c005606b1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\b2aaead63208b656e100f368af7e85ce\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\b2aaead63208b656e100f368af7e85ce\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cbdf7e02b57bb5df5961a0f2e2f9ff75\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cbdf7e02b57bb5df5961a0f2e2f9ff75\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from [com.huanglinqing:dialogutils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\dialogutils-1.0.0.aar\b2a2b0878b6095e32244f8a5e8701e4c\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from [com.huanglinqing:dialogutils:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\dialogutils-1.0.0.aar\b2a2b0878b6095e32244f8a5e8701e4c\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:28:9-51
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:25:9-30
+meta-data#com.amap.api.v2.apikey
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:29:9-31:64
+	android:value
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:31:13-61
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:30:13-50
+service#com.amap.api.location.APSService
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:33:9-68
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:33:18-65
+activity#com.amap.navi.demo.activity.IndexActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:screenOrientation
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:37:13-49
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:35:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:40:27-74
+activity#com.amap.api.navi.AmapRouteActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:43:9-45:77
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:44:13-63
+activity#com.amap.navi.demo.activity.BasicNaviActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:46:9-50:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:49:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:48:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:50:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:47:13-55
+activity#com.amap.navi.demo.activity.CustomZoomInIntersectionViewActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:51:9-55:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:54:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:53:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:55:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:52:13-74
+activity#com.amap.navi.demo.activity.CustomRouteActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:56:9-60:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:59:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:58:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:60:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:57:13-57
+activity#com.amap.navi.demo.activity.CustomDriveWayViewActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:61:9-65:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:64:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:63:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:65:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:62:13-64
+activity#com.amap.navi.demo.activity.HudDisplayActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:66:9-70:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:69:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:68:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:70:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:67:13-56
+activity#com.amap.navi.demo.activity.IntelligentBroadcastActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:71:9-75:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:74:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:73:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:75:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:72:13-66
+activity#com.amap.navi.demo.activity.RoutePlanningActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:76:9-81:63
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:79:13-45
+	android:windowSoftInputMode
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:81:13-60
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:78:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:80:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:77:13-59
+activity#com.amap.navi.demo.activity.GPSNaviActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:82:9-86:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:85:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:84:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:86:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:83:13-53
+activity#com.amap.navi.demo.activity.CustomTrafficBarViewActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:87:9-91:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:90:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:89:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:91:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:88:13-66
+activity#com.amap.navi.demo.activity.CustomTrafficProgressBarActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:92:9-96:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:95:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:94:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:96:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:93:13-70
+activity#com.amap.navi.demo.activity.SimpleNaviActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:97:9-101:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:100:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:99:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:101:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:98:13-56
+activity#com.amap.navi.demo.activity.GetNaviStepsAndLinksActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:102:9-106:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:105:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:104:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:106:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:103:13-66
+activity#com.amap.navi.demo.activity.NorthModeActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:107:9-111:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:110:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:109:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:111:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:108:13-55
+activity#com.amap.navi.demo.activity.OverviewModeActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:112:9-116:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:115:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:114:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:116:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:113:13-58
+activity#com.amap.navi.demo.activity.BasicWalkNaviActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:117:9-121:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:120:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:119:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:121:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:118:13-59
+activity#com.amap.navi.demo.activity.UseExtraGpsDataActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:122:9-126:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:125:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:124:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:126:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:123:13-61
+activity#com.amap.navi.demo.activity.CustomCarActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:127:9-131:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:130:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:129:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:131:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:128:13-55
+activity#com.amap.navi.demo.activity.CustomRouteTextureInAMapNaviViewActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:132:9-136:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:135:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:134:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:136:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:133:13-78
+activity#com.amap.navi.demo.activity.CustomDirectionViewActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:137:9-141:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:140:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:139:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:141:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:138:13-65
+activity#com.amap.navi.demo.activity.CustomTrafficButtonViewActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:142:9-146:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:145:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:144:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:146:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:143:13-69
+activity#com.amap.navi.demo.activity.CustomNextTurnTipViewActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:147:9-151:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:150:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:149:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:151:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:148:13-67
+activity#com.amap.navi.demo.activity.CustomZoomButtonViewActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:152:9-156:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:155:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:154:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:156:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:153:13-66
+activity#com.amap.navi.demo.activity.CustomOverviewButtonViewActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:157:9-161:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:160:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:159:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:161:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:158:13-70
+activity#com.amap.navi.demo.activity.RestRouteShowActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:162:9-166:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:165:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:164:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:166:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:163:13-59
+activity#com.amap.navi.demo.activity.RouteNaviActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:167:9-171:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:170:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:169:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:171:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:168:13-55
+activity#com.amap.navi.demo.activity.SingleRouteCalculateActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:172:9-176:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:175:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:174:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:176:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:173:13-66
+activity#com.amap.navi.demo.activity.WalkRouteCalculateActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:177:9-181:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:180:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:179:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:181:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:178:13-64
+activity#com.amap.navi.demo.activity.RideRouteCalculateActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:182:9-186:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:185:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:184:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:186:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:183:13-64
+activity#com.amap.navi.demo.activity.EmulatorActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:187:9-191:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:190:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:189:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:191:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:188:13-54
+activity#com.amap.navi.demo.activity.custom.CustomUiActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:192:9-196:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:195:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:194:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:196:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:193:13-61
+activity#com.amap.navi.demo.activity.DriverListActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:197:9-201:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:200:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:199:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:201:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:198:13-56
+activity#com.amap.navi.demo.activity.TrunkRouteCalculateActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:203:9-207:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:206:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:205:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:207:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:204:13-65
+activity#com.amap.navi.demo.activity.SetTrunkParamsActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:209:9-213:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:212:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:211:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:213:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:210:13-60
+activity#com.amap.navi.demo.activity.SwitchMasterRoadNaviActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:215:9-219:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:218:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:217:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:219:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:216:13-66
+activity#com.amap.navi.demo.activity.IflyVoiceActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:221:9-225:69
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:224:13-45
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:223:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:225:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:222:13-55
+activity#com.amap.navi.demo.activity.custom.AllCustomDriveWayActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:227:9-231:61
+	android:screenOrientation
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:230:13-49
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:231:13-58
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:229:13-74
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:228:13-70
+activity#com.amap.navi.demo.activity.custom.AllCustomTrafficBarActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:233:9-237:62
+	android:screenOrientation
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:236:13-49
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:237:13-60
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:235:13-74
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:234:13-72
+activity#com.amap.navi.demo.activity.custom.AllCustomCrossingActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:238:9-242:59
+	android:screenOrientation
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:241:13-49
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:242:13-57
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:240:13-74
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:239:13-70
+activity#com.amap.navi.demo.activity.custom.AllCustomCarRouteActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:243:9-247:61
+	android:screenOrientation
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:246:13-49
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:247:13-58
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:245:13-74
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:244:13-70
+activity#com.amap.navi.demo.activity.custom.AllCustomNextRoadInfoActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:248:9-252:73
+	android:screenOrientation
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:251:13-49
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:252:13-70
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:250:13-74
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:249:13-74
+activity#com.amap.navi.demo.activity.custom.AllCustomCameraActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:254:9-258:58
+	android:screenOrientation
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:257:13-49
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:258:13-55
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:256:13-74
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:255:13-68
+activity#com.amap.navi.demo.activity.custom.AllCustomNaviActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:260:9-265:56
+	android:screenOrientation
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:263:13-49
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:265:13-53
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:262:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:264:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:261:13-66
+activity#com.amap.navi.demo.activity.CustomAmapRouteActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:266:9-271:47
+	android:screenOrientation
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:269:13-49
+	android:label
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:271:13-44
+	android:configChanges
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:268:13-74
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:270:13-66
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:267:13-61
+activity#com.amap.navi.demo.Blutooth.Bluetooth
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:273:9-106
+	android:theme
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:273:55-93
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:273:19-53
+activity#com.amap.navi.demo.activity.search.SearchPoiActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:274:9-71
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:274:19-68
+service#com.amap.navi.demo.Blutooth.ReceiveThread
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:275:9-59
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:275:18-56
+activity#com.amap.navi.demo.Blutooth.CommunicationActivity
+ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:276:9-77
+	android:name
+		ADDED from D:\bicyclenavigation\demo\AMap_Android_API_Navi_Demo\android_studio\Navi\app\src\main\AndroidManifest.xml:276:19-65
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\e10c27c1bf6acc96c46a9cf31ed8eae3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c52a4117632771296fc3188655c8bc3b\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\c52a4117632771296fc3188655c8bc3b\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\12f4dedf101ebf7c9a313742682d7990\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\12f4dedf101ebf7c9a313742682d7990\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3d84d0e80467ec7d091525a1ec7699c7\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\3d84d0e80467ec7d091525a1ec7699c7\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\643fce0984542be066175b9eedf1c1eb\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\643fce0984542be066175b9eedf1c1eb\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a026046f18504697712c77d177717c89\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\a026046f18504697712c77d177717c89\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b0015d14fde35db8359d786c005606b1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b0015d14fde35db8359d786c005606b1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\b2aaead63208b656e100f368af7e85ce\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\b2aaead63208b656e100f368af7e85ce\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cbdf7e02b57bb5df5961a0f2e2f9ff75\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\cbdf7e02b57bb5df5961a0f2e2f9ff75\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\e10c27c1bf6acc96c46a9cf31ed8eae3\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\e10c27c1bf6acc96c46a9cf31ed8eae3\AndroidManifest.xml:26:9-47

@@ -1,0 +1,4 @@
+#Sat Nov 23 15:24:33 CST 2019
+base.0=D\:\\bicyclenavigation\\demo\\AMap_Android_API_Navi_Demo\\android_studio\\Navi\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\49
+path.0=classes.dex
+renamed.0=classes.dex
